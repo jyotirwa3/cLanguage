@@ -2,6 +2,6 @@
 int main()
 {
     printf("2nd c language");
-    printf("2nd c language2");
+    printf("3rd")
     return 0;
 }
